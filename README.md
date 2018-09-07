@@ -1,6 +1,6 @@
 # Irradiating Raspberry Pis
 
-This setup was created by Kyle King (D/EECS) and CDT Haley Duke to support a D/PANE project.  
+This project collects data from a Raspberry Pi that is being or has been irradiated. This setup was created by Kyle King (D/EECS) and CDT Haley Duke to support a D/PANE project.  
 
 First, make sure your Pi has the correct time:
 
